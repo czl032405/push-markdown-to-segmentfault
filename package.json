@@ -1,0 +1,25 @@
+{
+  "name": "push-markdown-to-segmentfault",
+  "version": "1.0.0",
+  "description": "push-markdown-to-segmentfault",
+  "main": "push2sfgg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czl032405/push-markdown-to-segmentfault.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czl032405/push-markdown-to-segmentfault/issues"
+  },
+  "homepage": "https://github.com/czl032405/push-markdown-to-segmentfault#readme",
+  "devDependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "glob": "^7.1.1",
+    "superagent": "^2.3.0"
+  }
+}

@@ -200,7 +200,7 @@ var getLocalNotes = function () {
 var action = function () {
 
     user = "471060995@qq.com";
-    pw = "159357";
+    pw = "6666666";
 
     index(function () {
         login(function () {
